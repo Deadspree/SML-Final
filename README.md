@@ -9,3 +9,5 @@ Run it locally
 The code works but the results right now is not correct because I fucked up the labelling during training but it will be an easy fix so no worry. 
 
 And it mediapipe only works on python 3.10 so if you are having python 3.14 then uninstall it.
+
+Currently it only has 5 labels but I will scale it up later
