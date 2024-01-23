@@ -1,3 +1,8 @@
+# Description
+
+The project uses drawing from hand gestures to draw and have an image classification model to predict 10 Hiragana
+![2024-01-24_00h07_20](https://github.com/Deadspree/SML-Final/assets/91746877/cf9c6bea-8aa3-4775-9f7a-40111e95920c)
+
 # SML-Final
 
 Download the whole respiratory
@@ -12,9 +17,15 @@ Google Colab can not open the webcam using OpenCV so the code must be run locall
 
 # Requirements:
 python 3.10: https://www.python.org/downloads/release/python-3100/
+
 Libraries: pip install 
+
 opencv-python
+
 tensorflow
+
 numpy
+
 collections
+
 mediapipe
