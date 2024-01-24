@@ -32,6 +32,9 @@ mediapipe
 
 # How to use the program:
 
+Tutorial Video:
+https://drive.google.com/file/d/1e_aXtc6eHqxJZ8n8Zhuc2FEmtj4FxniF/view?usp=sharing
+
 Start Drawing:
 
 ![WIN_20240124_17_41_13_Pro](https://github.com/Deadspree/SML-Final/assets/91746877/325d7a1d-e7f0-4040-af3b-e44682175eac)
