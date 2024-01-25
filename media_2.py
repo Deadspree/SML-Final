@@ -12,6 +12,7 @@ mp_hands = mp.solutions.hands#Hand tracking and landmark estimation
 sec_pred = 10
 CLASSES = ["o","ki","su","tsu","na","ha","ma","ya","re","wo","nothing"]
 #Change the model path to your match your local machine
+#This is the same model with 10_hiragana_model, I just rename it
 model = tf.keras.models.load_model(r"C:\Users\Admin_PC\SML-Final\best_hiragana_model.h5")
 
 #Open a camera for video capturin
