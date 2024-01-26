@@ -9,6 +9,8 @@ Download the whole respiratory
 
 In the media_2.py, change the model path so that it suits ur current local path
 
+model = tf.keras.models.load_model(r"The model path for best_hiragana_model.h5 on your local memory")
+
 Run it locally
 
 And Mediapipe only works on Python 3.10 so if you are having Python 3.14 then uninstall it and install Python 3.10
